@@ -1,0 +1,14 @@
+- name: "Awesome App"
+  role: "Lead Developer"
+  image: "/assets/imagesecam.jpg"
+  description: "A web application that does awesome things."
+
+- name: "Data Dashboard"
+  role: "Data Engineer"
+  image: "/assets/images/example.png"
+  description: "A dashboard that visualizes real-time business metrics."
+
+- name: "Mobile Game"
+  role: "Game Designer"
+  image: "/assets/images/example.png"
+  description: "A puzzle-solving adventure game for iOS and Android."

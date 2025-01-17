@@ -1,6 +1,6 @@
 - name: "Awesome App"
   role: "Lead Developer"
-  image: "/assets/images/ecam.jpg"
+  image: "{{ '/assets/images/ecam.jpg' | relative_url }}"
   description: "A web application that does awesome things."
 
 - name: "Data Dashboard"
